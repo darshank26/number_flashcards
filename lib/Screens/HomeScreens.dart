@@ -354,7 +354,7 @@ class _HomeScreenState extends State<HomeScreen> {
                                           print("++++++"+index.toString());
                                         }
                                       },
-                                      child: index != 25 ? Card(
+                                      child: index != 99 ? Card(
                                         color: kback,
                                         elevation: 1,
                                         shape: RoundedRectangleBorder(
